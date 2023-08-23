@@ -1,0 +1,33 @@
+.close-pdf {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	color: #1d69b3;
+}
+
+button {
+	width: 40px;
+	border: none;
+	background: none;
+	color: #1d69b3;
+	font-size: 20px;
+	outline: none;
+}
+
+.control {
+	position: fixed;
+	bottom: 20px;
+	left: 50%;
+	margin-left: -140px;
+}
+
+.control span {
+	color: #1d69b3;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+.pdf-container {
+	width: 100vw;
+	height: 100vh;
+}
